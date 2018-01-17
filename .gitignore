@@ -1,0 +1,10 @@
+.idea/
+.git/
+object_detection/
+utils/
+video/
+output/
+test/
+__pycache__/
+data/
+
