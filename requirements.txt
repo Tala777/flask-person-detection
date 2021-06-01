@@ -23,5 +23,5 @@ scipy==0.19.1
 six==1.11.0
 SQLAlchemy==1.1.14
 tensorflow-tensorboard==0.1.7
-urllib3==1.22
+urllib3==1.26.5
 Werkzeug==0.12.2
