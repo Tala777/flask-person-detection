@@ -1,6 +1,6 @@
 bleach==1.5.0
 boost==0.1
-certifi==2017.7.27.1
+certifi==2022.12.7
 chardet==3.0.4
 Cython==0.27.1
 Flask>=0.11.0
